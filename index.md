@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Despite all appearences, I am actually three kobolds in a trench coat pretending to be a person. I write fictional travel blogs, and a real journal sometimes. 
