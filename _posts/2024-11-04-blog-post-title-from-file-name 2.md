@@ -1,4 +1,4 @@
-##Chapter 2
+## Chapter 2
 So, there I was, elbow deep in what I was told was tapioca pudding.  It was off-white, and had small beads, but it didn’t smell right.  It smelled kind of savory, like a sweet gravy.  There was this guy telling me that this was a “great honor.  We rarely let outsiders in on this.”  I still don’t know what he was talking about, but his enthusiasm was infectious.  I was also with another “initiate”, who had his own bowl to sort through.  I must have lost track of time, because the sun was setting when I went in, and high when I left.  
 I was looking for a key to unlock a door to “reach the next level”.  I don’t know what that meant, but here I was.  I found the key, and it unlocked the door to the outside.  The man handed me a card with an address, and instructions to meet my guide.  
 I went back to the hostel to shower off whatever I had been digging through.
