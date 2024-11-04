@@ -1,32 +1,10 @@
-## Blog Post Title From First Header
-
-Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title.
-
-If the file does not start with a header, then the post title will be derived from the filename.
-
-This is a sample blog post. You can talk about all sorts of fun things here.
-
----
-
-### This is a header
-
-#### Some T-SQL Code
-
-```tsql
-SELECT This, [Is], A, Code, Block -- Using SSMS style syntax highlighting
-    , REVERSE('abc')
-FROM dbo.SomeTable s
-    CROSS JOIN dbo.OtherTable o;
-```
-
-#### Some PowerShell Code
-
-```powershell
-Write-Host "This is a powershell Code block";
-
-# There are many other languages you can use, but the style has to be loaded first
-
-ForEach ($thing in $things) {
-    Write-Output "It highlights it using the GitHub style"
-}
-```
+## Chapter 1
+This one time in Moscow, I was on a scavenger hunt with a man named Piotor, and a teenager whose name I never learned.  We had crossed a few things off the list, a stovetop toaster, reading glasses with wood frames, and now we were looking for, among other things, a very specific make and model of wristwatch.  I still don’t know how I ended up on a scavenger hunt with who I think was a “made man” in the Russian mob, and his boss’s kid.
+Our travels led us to a drunk tank looking for a guy named Oskar.  Piotor had friends all over the city, and he never told me what he did for a living.  
+When I found him, he was pacing his cell, ranting to anyone who would listen that he was a political prisoner, having slept with someone’s daughter.  He never said what politics he had, or who he had slept with.  
+Anyway, Oskar had the watch I needed in his declared personal objects when he was booked.  I tried to talk to him, but he was rambling on and on about this conspiracy and that one, and I couldn’t get him to calm down for anything.  I don’t know if anything he said was true, but he did say some interesting things about Stalin’s alleged secret stash of erotic novels stored in a swiss bank for safe keeping.  He never said if Stalin wrote the novels, or just read them.
+He then circled around to why he had been put in the cell in the first place.  He had slept with the daughter(?) of a member of the parliament.  He was obviously still drunk, and his English wasn’t great to begin with.  He kept switching back and forth between son and daughter.  The point was, he tried to pick someone up at a bar he wasn’t supposed to.  He was the wrong kind of disreputable, from a rival gang, or so he said.  
+So he got locked up.  He then turned around, and before I figured out what was happening, he dropped trou and started showing me his tattoos.  They were numerous, and from what I understand about the Russian mafia, told his criminal history.  I didn’t look too closely, so I don't know what he had done.  He pulled up his pants, and started rambling again about swiss vaults and the secrets contained therein.  There was no calming him down until he sobered up, which I didn’t particularly feel like waiting on.  
+And then, I had this Brilliant IdeaTM.  I started singing to him.  I don’t remember which song, but it doesn’t matter.  Something I remembered from my younger days.  This calmed him down long enough to talk about the watch.  Of course, this led to a convoluted story I couldn’t follow.  I think he stole it from a drunk German tourist at some point, when they were both drunk.  He said it had “semitential values”, so if I wanted it, it would cost me.  I gave him ten American dollars, and he gladly gave me the watch.  It turns out, in the sketchy parts of Moscow, American dollars are the preferred form of currency. I think it has to do with money laundering and crime.  
+So Piotor and I got out of the holding area, and went to the property clerk.  Piotor said something in Russian, and I gave the clerk the ten dollars I owed Oskar for the watch, and another five to do the swap, and I got the watch.
+Anyway, I got the watch, and got to move on to the next thing.  A video of someone in a fridge with a latch.  This one should be easy, until I learned that I was going to be the one latched into the fridge.  But that’s another story.
